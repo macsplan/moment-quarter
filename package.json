@@ -1,6 +1,6 @@
 {
   "name": "moment-quarter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get Fiscal Quarters for any countries and calculate custom quarters.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "author": "Anthony Mugendi <ngurumugz@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "country-code": "^0.0.3",
+    "country-code": "git+https://github.com/macsplan/cc.git",
     "moment": "^2.20.1"
   }
 }
