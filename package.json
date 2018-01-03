@@ -19,7 +19,7 @@
   "author": "Anthony Mugendi <ngurumugz@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "country-code": "0.0.3",
-    "moment": "^2.13.0"
+    "country-code": "^0.0.3",
+    "moment": "^2.20.1"
   }
 }
